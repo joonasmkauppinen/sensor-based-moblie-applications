@@ -1,4 +1,4 @@
-# Lab 1 - Hello World app
+# Lab 1 - Hello World app <img src="https://user-images.githubusercontent.com/28673805/64346780-71882700-cffb-11e9-8e5d-0e375c7dd72c.png" width="30">
 
 ### Objective
 * Use ConstraintLayout
