@@ -1,16 +1,17 @@
 # Course: Sensor Based Mobile Applications
 
+This course will provide skills and methods in designing and developing native mobile applications a for major mobile platform utilizing also sensors.
+
+## List of all the lab exercises:
+
+**[1. Hello World ](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w1-d1-lab1)**
+
 ## Course content
 * Android programming
 * Advanced Android programming
 * Sensor interfaces and APIs
 * Usability and user experience
 * Android project
-
-## List of all the lab exercises:
-
-**[1. Hello World | w1-d1](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w1-d1-lab1)**
-
 
 ## Course timeline
 
