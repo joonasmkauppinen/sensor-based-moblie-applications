@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Hello World</string>
-    <string name="hello_world">Hello my name is World!</string>
+    <string name="title_main">Hello World</string>
+    <string name="title_secondary">Goodbye Summer</string>
+    <string name="subtitle">I\'m in a box :P</string>
+    <string name="toggle_button">Click Me</string>
 </resources>
