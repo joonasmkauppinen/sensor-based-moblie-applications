@@ -5,7 +5,8 @@ This course will provide skills and methods in designing and developing native m
 ## List of all the lab exercises:
 
 1. **[Hello World ](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w1-d1-lab1)**
-2. **[Light Sensor App](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w2-d4-internal-sensor)**
+2. **[Mood App](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w1-d1-fragments-lab_1)**
+3. **[Light Sensor App](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w2-d4-internal-sensor)**
 
 ## Course content
 * Android programming
