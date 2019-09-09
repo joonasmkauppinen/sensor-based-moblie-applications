@@ -1,4 +1,4 @@
-# Fetch Text <img src="" width="30">
+# Fetch Text <img src="https://user-images.githubusercontent.com/28673805/64557122-92c57c00-d349-11e9-9104-fb92ba83fad6.png" width="30">
 
 ### Objective
 
@@ -7,4 +7,4 @@
 
 ### Final result
 
-<img src="" width="250">
+<img src="https://user-images.githubusercontent.com/28673805/64557228-c56f7480-d349-11e9-9132-1d7c2921064a.gif" width="250">
