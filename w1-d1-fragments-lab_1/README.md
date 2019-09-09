@@ -3,7 +3,7 @@
 ### Objective
 
 * use one fragment to display happy or sad face
-* [EXTRA] dynamically change the fragment colors and text contenet based on user mood
+* [EXTRA] dynamically change the fragment colors and text content based on user mood
 
 ### Final result
 
