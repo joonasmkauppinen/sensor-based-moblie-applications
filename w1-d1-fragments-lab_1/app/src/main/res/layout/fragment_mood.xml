@@ -2,73 +2,50 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:background="@color/green"
+    android:id="@+id/moodFragment"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    android:clickable="true"
+    tools:context=".MoodFragment">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/moodText"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
         android:layout_marginTop="88dp"
         android:layout_marginEnd="24dp"
-        android:text="@string/mood_question"
         android:textSize="54sp"
         android:textStyle="bold"
-        android:textColor="@color/darkGreen"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Mood text will be here." />
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/moodImage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:adjustViewBounds="true"
-        android:cropToPadding="false"
         android:scaleType="fitCenter"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@mipmap/question_face_ic" />
-
-
-    <Button
-        android:id="@+id/goodMoodButton"
-        android:layout_width="0dp"
-        android:layout_height="53dp"
-        android:layout_marginStart="24dp"
-        android:layout_marginEnd="24dp"
-        android:background="@drawable/button_rounded"
-        android:text="@string/button_good"
-        android:textColor="@color/greenButtonText"
-        app:layout_constraintBottom_toTopOf="@+id/badMoodButton"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        android:layout_marginBottom="16dp"
-        android:stateListAnimator="@null"/>
+        tools:src="@mipmap/question_face_ic" />
 
     <Button
-        android:id="@+id/badMoodButton"
+        android:id="@+id/goBackButton"
         android:layout_width="0dp"
         android:layout_height="53dp"
         android:layout_marginStart="24dp"
         android:layout_marginEnd="24dp"
         android:layout_marginBottom="32dp"
-        android:text="@string/button_bad"
-        android:textColor="@color/greenButtonText"
-        android:background="@drawable/button_rounded"
+        android:text="@string/button_goback"
+        android:textSize="14sp"
+        android:stateListAnimator="@null"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        android:stateListAnimator="@null"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
-    <FrameLayout
-        android:id="@+id/fragmentContainer"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

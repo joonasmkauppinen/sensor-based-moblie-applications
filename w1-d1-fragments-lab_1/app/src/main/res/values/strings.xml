@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Mood</string>
+    <string name="mood_question">So how you feeling today?</string>
+    <string name="mood_good">Oh, how nice! I\'m having a good day too.</string>
+    <string name="mood_bad">We all have days like that sometimes.</string>
+    <string name="button_good">great day today</string>
+    <string name="button_bad">kinda didn\'t sleep last night</string>
+    <string name="button_goback">go back</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
