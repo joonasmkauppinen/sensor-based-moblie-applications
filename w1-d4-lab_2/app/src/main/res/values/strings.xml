@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fetch Image</string>
+    <string name="download_button">download image</string>
+    <string name="snack_message">Downloading image&#8230;</string>
+    <string name="initial_text">No image downloaded</string>
+</resources>
