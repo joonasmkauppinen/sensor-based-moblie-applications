@@ -1,4 +1,4 @@
-package fi.metropolia.fetchtext
+package fi.metropolia.fetchimage
 
 import org.junit.Test
 
