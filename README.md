@@ -10,7 +10,8 @@ This course will provide skills and methods in designing and developing native m
 3. **[Data Binding](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w1-d1-fragments-lab_2)**
 4. **[Fetch Text](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w1-d4-lab_1)**
 5. **[Fetch Image](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w1-d4-lab_2)**
-6. **[Light Sensor App](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w2-d4-internal-sensor)**
+6. **[Beacon App](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w2-d2-beacon)**
+7. **[Light Sensor App](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w2-d4-internal-sensor)**
 
 ## Course content
 * Android programming
