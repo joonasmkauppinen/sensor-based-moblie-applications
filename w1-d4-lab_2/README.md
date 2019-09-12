@@ -6,4 +6,4 @@
 * Use AsyncTask for downloading the picture.
 ### Final result
 
-<img src="" width="250">
+<img src="https://user-images.githubusercontent.com/28673805/64594240-4feebd00-d3b8-11e9-8ba3-677ff135c24a.gif" width="250">
