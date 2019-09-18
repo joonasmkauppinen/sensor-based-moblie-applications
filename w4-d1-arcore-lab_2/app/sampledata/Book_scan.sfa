@@ -1,0 +1,50 @@
+{
+  materials: [
+    {
+      name: 'Book_scan',
+      parameters: [
+        {
+          baseColor: 'Book_scan',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/Book_scan.obj',
+    name: 'Book_scan',
+    recenter: 'root',
+    scale: 0.36355900000000002,
+  },
+  samplers: [
+    {
+      file: 'sampledata\\Book_scan.jpg',
+      name: 'Book_scan',
+      pipeline_name: 'Book_scan.jpg',
+    },
+  ],
+  version: '0.54:2',
+}
