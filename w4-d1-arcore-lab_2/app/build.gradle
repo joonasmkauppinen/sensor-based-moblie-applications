@@ -41,10 +41,22 @@ dependencies {
     // AR Core
     implementation 'com.google.ar:core:1.12.0'
     implementation 'com.google.ar.sceneform.ux:sceneform-ux:1.12.0'
+    // Support for animated model renderables
+    implementation "com.google.ar.sceneform:animation:1.12.0"
 }
 
 
-sceneform.asset('sampledata/Book_scan.obj',
+sceneform.asset('sampledata/ugandan-knuckles/source/Knuckles.fbx',
         'default',
-        'sampledata/Book_scan.sfa',
-        'src/main/assets/Book_scan')
+        'sampledata/ugandan-knuckles/source/Knuckles.sfa',
+        'src/main/assets/Knuckles')
+
+sceneform.asset('sampledata/ugandan-tails/source/CH_UgandaTails_Sketchfab.fbx',
+        'default',
+        'sampledata/ugandan-tails/source/CH_UgandaTails_Sketchfab.sfa',
+        'src/main/assets/UgandaTails')
+
+sceneform.asset('sampledata/thanos-dancing-running-man/source/Dancing Running Man.fbx',
+        'default',
+        'sampledata/thanos-dancing-running-man/source/Dancing Running Man.sfa',
+        'src/main/assets/Thanos')
