@@ -12,6 +12,7 @@ This course will provide skills and methods in designing and developing native m
 5. **[Fetch Image](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w1-d4-lab_2)**
 5. **[Retrofit App](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w1-d5-retrofit)**
 5. **[Camera Lab 1](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w2-d1-camera-lab_1)**
+5. **[Camera Lab 2](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w2-d1-camera-lab_2)**
 6. **[Beacon App](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w2-d2-beacon)**
 7. **[Light Sensor App](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w2-d4-internal-sensor)**
 8. **[File App](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w3-d4-internal_external_storage-lab_1)**
