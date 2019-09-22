@@ -17,6 +17,7 @@ This course will provide skills and methods in designing and developing native m
 6. **[Location Lab 1](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w2-d2-location-lab_1)**
 6. **[Location Lab 2](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w2-d2-location-lab_2)**
 6. **[Audio Lab](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w3-d1-audio)**
+6. **[RecyclerView Lab](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w3-d2-recyclerview)**
 7. **[Light Sensor App](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w2-d4-internal-sensor)**
 8. **[File App](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w3-d4-internal_external_storage-lab_1)**
 8. **[AR Core](https://github.com/joonasmkauppinen/sensor-based-moblie-applications/tree/master/w4-d1-arcore-lab_2)**
