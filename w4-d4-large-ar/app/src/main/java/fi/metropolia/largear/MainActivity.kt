@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
         val fragment = arFragment as ArFragment
 
         ModelRenderable.builder()
-            .setSource(fragment.context, Uri.parse(TANK_MODEL))
+            .setSource(fragment.context, Uri.parse(HEIST_MODEL))
             .build()
             .thenAccept{
                 myRenderable = it
@@ -47,8 +47,8 @@ class MainActivity : AppCompatActivity() {
             anchorNode.setParent(fragment.arSceneView.scene)
             val viewNode = TransformableNode(fragment.transformationSystem)
 
-            viewNode.scaleController.minScale = 0.5f
-            viewNode.scaleController.maxScale = 2.6f
+            viewNode.scaleController.minScale = 2.6f
+            viewNode.scaleController.maxScale = 2.7f
             viewNode.rotationController.rotationRateDegrees = 180f
 
             viewNode.setParent(anchorNode)
